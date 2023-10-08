@@ -11,3 +11,10 @@
 $ sudo rm -rf /
 No idea
 ```
+
+# Todo:
+- [x] Make unfunny joke
+- [x] Repeat it multiple times to make it even less funny
+- [ ] Finish this markdown lesson
+- [ ] ???
+- [ ] Profit
